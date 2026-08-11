@@ -28,7 +28,8 @@ final assembly ticket (`15-gdd-assembly`).
 
 <!-- index only — one line per resolved ticket, gist + link; detail lives in the ticket -->
 
-_(none yet — charting resolves nothing but scope)_
+- [05 — Genre & info-war research](issues/05-genre-and-infowar-research.md) — Republia Times is the skeleton (press clock + too-small front page + Loyalty/Readership meters); make **framing/reframe** the core verb, decouple it from **probabilistic/delayed/partial-truth** outcomes so the player is sometimes wrong; hidden state-media route should emerge from **convenience** (free official sources + sponsor-safe framings), not an order. Avoid Headliner's telegraphed binary choices.
+- [04 — Tone & pitch](issues/04-tone-and-pitch.md) — **Operatic political thriller with satirical bite** (heightened, not straight satire). Default feeling **overwhelmed → complicit**; bad endings are **earned by not reading critically** — that's a hard design constraint on the loop (03) & knowledge (09). **Power-fantasy** feeling is a *reward reserved for the deliberate-influence routes* (operator / overt state-media). Touchstones: Papers Please, Republia Times, Disco Elysium, Network.
 
 ## Not yet specified
 
