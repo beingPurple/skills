@@ -18,3 +18,4 @@ Model- or user-reachable (rich trigger phrasing so the model can reach for them)
 
 - **[grilling](./grilling/SKILL.md)** — Interview the user relentlessly about a plan, decision, or idea until every branch of the design tree is resolved.
 - **[writing-for-agents](./writing-for-agents/SKILL.md)** — Writing documents for agents: skills, AGENTS.md/CLAUDE.md, and any doc an agent reaches by a pointer.
+- **[zero-slop](./zero-slop/SKILL.md)** — Edit drafts so they stop reading as AI-written: flags stock phrasing, flat rhythm and performed tone with local checks, then rewrites without adding or dropping facts. Vendored from [manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop) (MIT).

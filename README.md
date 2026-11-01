@@ -229,3 +229,4 @@ General workflow tools, not code-specific.
 
 - **[grilling](./skills/productivity/grilling/SKILL.md)** — Interview the user relentlessly about a plan, decision, or idea until every branch of the design tree is resolved. The reusable interview primitive behind `grill-me`, `grill-with-docs`, `triage`, `wayfinder` and `improve-codebase-architecture`.
 - **[writing-for-agents](./skills/productivity/writing-for-agents/SKILL.md)** — Writing documents for agents: skills, AGENTS.md/CLAUDE.md, and any doc an agent reaches by a pointer.
+- **[zero-slop](./skills/productivity/zero-slop/SKILL.md)** — Edit drafts so they stop reading as AI-written: flags stock phrasing, flat rhythm and performed tone with local checks, then rewrites without adding or dropping facts. Vendored from [manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop) (MIT).
