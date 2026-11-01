@@ -1,0 +1,3 @@
+interface:
+  display_name: "Zero Slop"
+  short_description: "Edit prose so it stops sounding AI-written"
